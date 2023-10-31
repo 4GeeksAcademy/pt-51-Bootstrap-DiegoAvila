@@ -1,0 +1,38 @@
+.dropdown-menu[data-bs-popper] {
+    left: -140px;
+}
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+.btn-outline-success{
+    background: #198754;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.color-item{
+    color: red;
+}
+.disabled{
+    border: 5px solid black;
+    
+}
+.fa-solid{
+    color: black
+}
+.icon-modal{
+    display: flex;
+    gap: 10px;
+}
+.p-1{
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+.pading{
+    padding: 5px;
+}
+.row {
+    --bs-gutter-x: 0rem;
+}
